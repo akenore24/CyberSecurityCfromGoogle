@@ -7,7 +7,13 @@ In this repositary, I will Share some of the labs I have practice on
 
 # SQl
 
+# Python
+
+#SIEM Tools 
+
 # Incedeint Analysis and Reports
+
+# Frameworks 
 
 #more
 
