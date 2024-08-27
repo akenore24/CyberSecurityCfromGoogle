@@ -1,0 +1,16 @@
+The followings are what you can do with cd
+	cd: Change directory 
+1.	cd:	/path/to/directory
+2.	cd..:	move up one directory level to the parent directory
+3.	cd.. /..:	moves up two directory levels 
+4.	cd ~:	Another way to change to the home directory.
+5.	cd -:	changes to the pervious directory
+6.	cd /:	changes to the root directory of the file system
+7.	cd.:
+8.	cd ~ username
+9.	cd /var/log
+
+
+source:
+https://ss64.com/bash/cd.html
+ChatGPT4
